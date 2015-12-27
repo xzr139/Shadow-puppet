@@ -1,0 +1,290 @@
+E:\vs2010practise\gesture\gesture\bin\Debug\gesture.exe
+E:\vs2010practise\gesture\gesture\bin\Debug\gesture.pdb
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\MainWindow.baml
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\skeleton.baml
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\MainWindow.g.cs
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\skeleton.g.cs
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\App.g.cs
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\gesture.g.resources
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\gesture.exe
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\gesture.pdb
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\vs2010practise\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\gesture.exe
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\gesture.pdb
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\bin\Debug\gesture.exe
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\bin\Debug\gesture.pdb
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\skeleton.baml
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\MainWindow.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\skeleton.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\App.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\MainWindow.baml
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\gesture.g.resources
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\gesture.exe
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\gesture.pdb
+C:\Users\Bill\Desktop\gesture\gesture\bin\Debug\gesture.exe
+C:\Users\Bill\Desktop\gesture\gesture\bin\Debug\gesture.pdb
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\skeleton.baml
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\skeleton.g.cs
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\App.g.cs
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\MainWindow.baml
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\gesture.g.resources
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bill\Desktop\gesture\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\gesture.exe
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\gesture.pdb
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\bin\Debug\gesture.exe
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\bin\Debug\gesture.pdb
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\skeleton.baml
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\MainWindow.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\skeleton.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\App.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\MainWindow.baml
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\gesture.g.resources
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\gesture手势库\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\gesture.exe
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\gesture.pdb
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\bin\Debug\gesture.exe
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\bin\Debug\gesture.pdb
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\skeleton.baml
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\skeleton.g.cs
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\App.g.cs
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\MainWindow.baml
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\gesture.g.resources
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangxuewei\Desktop\gesture手势库\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\gesture.exe
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\gesture.pdb
+D:\360data\重要数据\桌面\gesture手势库\gesture\bin\Debug\gesture.exe
+D:\360data\重要数据\桌面\gesture手势库\gesture\bin\Debug\gesture.pdb
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\skeleton.baml
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\MainWindow.g.cs
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\skeleton.g.cs
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\App.g.cs
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\MainWindow.baml
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\gesture.g.resources
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\360data\重要数据\桌面\gesture手势库\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\gesture手势库\gesture\obj\x86\Debug\gesture.exe
+F:\gesture手势库\gesture\obj\x86\Debug\gesture.pdb
+F:\gesture手势库\gesture\bin\Debug\gesture.exe
+F:\gesture手势库\gesture\bin\Debug\gesture.pdb
+F:\gesture手势库\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\gesture手势库\gesture\obj\x86\Debug\skeleton.baml
+F:\gesture手势库\gesture\obj\x86\Debug\MainWindow.g.cs
+F:\gesture手势库\gesture\obj\x86\Debug\skeleton.g.cs
+F:\gesture手势库\gesture\obj\x86\Debug\App.g.cs
+F:\gesture手势库\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\gesture手势库\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+F:\gesture手势库\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+F:\gesture手势库\gesture\obj\x86\Debug\MainWindow.baml
+F:\gesture手势库\gesture\obj\x86\Debug\gesture.g.resources
+F:\gesture手势库\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+F:\gesture手势库\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\gesture手势库\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\gesture.exe
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\gesture.pdb
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\bin\Debug\gesture.exe
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\bin\Debug\gesture.pdb
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\skeleton.baml
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\skeleton.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\App.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\MainWindow.baml
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\gesture.g.resources
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangxuewei\Desktop\kinect\gesture手势库多动作\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\gesture.exe
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\gesture.pdb
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\bin\Debug\gesture.exe
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\bin\Debug\gesture.pdb
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\gesture.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\skeleton.baml
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\skeleton.g.cs
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\App.g.cs
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\gesture.g.resources
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+C:\Users\Alex\Desktop\gesture动作\gesture手势库多动作\gesture\obj\x86\Debug\gesture.csproj.GenerateResource.Cache
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\gesture.exe
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\gesture.pdb
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\bin\Debug\gesture.exe
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\bin\Debug\gesture.pdb
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\skeleton.baml
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\skeleton.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\App.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\MainWindow.baml
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\gesture.g.resources
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture手势库多动作\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\gesture.exe
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\gesture.pdb
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\bin\Debug\gesture.exe
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\bin\Debug\gesture.pdb
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\skeleton.baml
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\skeleton.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\App.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\MainWindow.baml
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\gesture.g.resources
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangxuewei\Desktop\kinect\gesture动作最新\gesture最新版本\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\皮影\gesture\gesture\obj\x86\Debug\gesture.exe
+I:\皮影\gesture\gesture\obj\x86\Debug\gesture.pdb
+I:\皮影\gesture\gesture\bin\Debug\gesture.exe
+I:\皮影\gesture\gesture\bin\Debug\gesture.pdb
+I:\皮影\gesture\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\皮影\gesture\gesture\obj\x86\Debug\skeleton.baml
+I:\皮影\gesture\gesture\obj\x86\Debug\MainWindow.g.cs
+I:\皮影\gesture\gesture\obj\x86\Debug\skeleton.g.cs
+I:\皮影\gesture\gesture\obj\x86\Debug\App.g.cs
+I:\皮影\gesture\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+I:\皮影\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+I:\皮影\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+I:\皮影\gesture\gesture\obj\x86\Debug\MainWindow.baml
+I:\皮影\gesture\gesture\obj\x86\Debug\gesture.g.resources
+I:\皮影\gesture\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+I:\皮影\gesture\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\皮影\gesture\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\gesture.exe
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\gesture.pdb
+D:\360data\重要数据\桌面\gesture\gesture\bin\Debug\gesture.exe
+D:\360data\重要数据\桌面\gesture\gesture\bin\Debug\gesture.pdb
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\skeleton.baml
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\MainWindow.g.cs
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\skeleton.g.cs
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\App.g.cs
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\MainWindow.baml
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\gesture.g.resources
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\360data\重要数据\桌面\gesture\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\gesture\gesture\obj\x86\Debug\gesture.exe
+I:\gesture\gesture\obj\x86\Debug\gesture.pdb
+I:\gesture\gesture\bin\Debug\gesture.exe
+I:\gesture\gesture\bin\Debug\gesture.pdb
+I:\gesture\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\gesture\gesture\obj\x86\Debug\skeleton.baml
+I:\gesture\gesture\obj\x86\Debug\MainWindow.g.cs
+I:\gesture\gesture\obj\x86\Debug\skeleton.g.cs
+I:\gesture\gesture\obj\x86\Debug\App.g.cs
+I:\gesture\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+I:\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+I:\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+I:\gesture\gesture\obj\x86\Debug\MainWindow.baml
+I:\gesture\gesture\obj\x86\Debug\gesture.g.resources
+I:\gesture\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+I:\gesture\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\gesture\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\gesture\gesture\obj\x86\Debug\gesture.exe
+H:\gesture\gesture\obj\x86\Debug\gesture.pdb
+H:\gesture\gesture\bin\Debug\gesture.exe
+H:\gesture\gesture\bin\Debug\gesture.pdb
+H:\gesture\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\gesture\gesture\obj\x86\Debug\skeleton.baml
+H:\gesture\gesture\obj\x86\Debug\MainWindow.g.cs
+H:\gesture\gesture\obj\x86\Debug\skeleton.g.cs
+H:\gesture\gesture\obj\x86\Debug\App.g.cs
+H:\gesture\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+H:\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+H:\gesture\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+H:\gesture\gesture\obj\x86\Debug\MainWindow.baml
+H:\gesture\gesture\obj\x86\Debug\gesture.g.resources
+H:\gesture\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+H:\gesture\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\gesture\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\gesture改\gesture\obj\x86\Debug\gesture.exe
+H:\gesture改\gesture\obj\x86\Debug\gesture.pdb
+H:\gesture改\gesture\bin\Debug\gesture.exe
+H:\gesture改\gesture\bin\Debug\gesture.pdb
+H:\gesture改\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\gesture改\gesture\obj\x86\Debug\skeleton.baml
+H:\gesture改\gesture\obj\x86\Debug\MainWindow.g.cs
+H:\gesture改\gesture\obj\x86\Debug\skeleton.g.cs
+H:\gesture改\gesture\obj\x86\Debug\App.g.cs
+H:\gesture改\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+H:\gesture改\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+H:\gesture改\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+H:\gesture改\gesture\obj\x86\Debug\MainWindow.baml
+H:\gesture改\gesture\obj\x86\Debug\gesture.g.resources
+H:\gesture改\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+H:\gesture改\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\gesture改\gesture\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\皮影\gesture\obj\x86\Debug\gesture.exe
+I:\皮影\gesture\obj\x86\Debug\gesture.pdb
+E:\皮影\皮影\gesture\obj\x86\Debug\gesture.exe
+E:\皮影\皮影\gesture\obj\x86\Debug\gesture.pdb
+E:\皮影\皮影\gesture\bin\Debug\gesture.exe
+E:\皮影\皮影\gesture\bin\Debug\gesture.pdb
+E:\皮影\皮影\gesture\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\皮影\皮影\gesture\obj\x86\Debug\skeleton.baml
+E:\皮影\皮影\gesture\obj\x86\Debug\MainWindow.g.cs
+E:\皮影\皮影\gesture\obj\x86\Debug\skeleton.g.cs
+E:\皮影\皮影\gesture\obj\x86\Debug\App.g.cs
+E:\皮影\皮影\gesture\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\皮影\皮影\gesture\obj\x86\Debug\gesture_MarkupCompile.cache
+E:\皮影\皮影\gesture\obj\x86\Debug\gesture_MarkupCompile.lref
+E:\皮影\皮影\gesture\obj\x86\Debug\MainWindow.baml
+E:\皮影\皮影\gesture\obj\x86\Debug\gesture.g.resources
+E:\皮影\皮影\gesture\obj\x86\Debug\gesture.Properties.Resources.resources
+E:\皮影\皮影\gesture\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\皮影\皮影\gesture\obj\x86\Debug\GenerateResource.write.1.tlog

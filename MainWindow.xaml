@@ -1,0 +1,44 @@
+﻿<Window x:Class="gesture.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:c="clr-namespace:gesture"
+        WindowStartupLocation="CenterScreen"
+        Title="kinect皮影" Height="1200" Width="1900" Background="White" TextElement.Foreground="Black" WindowStyle="ToolWindow" MinWidth="1280" MinHeight="800" MaxWidth="1280" MaxHeight="800">   
+    <Viewbox>
+        <Grid x:Name="LayoutRoot" Width="2016" Height="1208" Margin="0,0,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="20*" />
+                <ColumnDefinition Width="30*" />
+                <ColumnDefinition Width="1870*" />
+            </Grid.ColumnDefinitions>           
+            <Image HorizontalAlignment="Left" Height="1252" Width="2058" Name="Mybackground" Stretch="Fill" VerticalAlignment="Top" Source="/gesture;component/background/back6.png" Grid.ColumnSpan="3" Margin="-30,-38,0,0" />
+            <c:skeleton x:Name="SkeletonViewerElement" Margin="47,607,1267,50" Visibility="Visible" Grid.Column="2" /> 
+            <Image Name="dabi" Stretch="Fill" Source="/gesture;component/images/大臂.png" Visibility="Hidden" Margin="0,0,1880,1104" Width="40" Height="96" Grid.ColumnSpan="3" />
+            <Image Name="xiaobi" Stretch="Fill" Source="/gesture;component/images/小臂.png" Visibility="Hidden" Margin="0,0,1850,1080" Width="70" Height="120" Grid.ColumnSpan="3" />          
+            <Image Name="datui" Stretch="Fill" Source="/gesture;component/images/大腿.png" Visibility="Hidden" Margin="0,0,1870,1080" Width="50" Height="120" Grid.ColumnSpan="3" />
+            <Image Name="xiaotui" Stretch="Fill" Source="/gesture;component/images/小腿.png" Visibility="Hidden" Margin="0,0,1880,1120" Width="40" Height="80" Grid.ColumnSpan="3" />
+            <Image Name="dabi2" Stretch="Fill" Source="/gesture;component/images/大臂.png" Visibility="Hidden" Margin="0,0,1880,1104" Width="40" Height="96" Grid.ColumnSpan="3" />
+            <Image Name="xiaobi2" Stretch="Fill" Source="/gesture;component/images/小臂.png" Visibility="Hidden" Margin="0,0,1850,1080" Width="70" Height="120" Grid.ColumnSpan="3" />
+            <Image Name="datui2" Stretch="Fill" Source="/gesture;component/images/大腿.png" Visibility="Hidden" Margin="0,0,1870,1080" Width="50" Height="120" Grid.ColumnSpan="3" />
+            <Image Name="xiaotui2" Stretch="Fill" Source="/gesture;component/images/小腿.png" Visibility="Hidden" Margin="0,0,1880,1120" Width="40" Height="80" Grid.ColumnSpan="3" />
+            <Image Name="shangsheng" Stretch="Fill" Source="/gesture;component/images/上身.png" Visibility="Hidden" Margin="0,0,1840,1065" Width="80" Height="135" Grid.ColumnSpan="3" />
+            <Image Name="tou" Stretch="Fill" Source="/gesture;component/images/头.png" Visibility="Hidden" Margin="0,0,1800,1065" Width="120" Height="135" Grid.ColumnSpan="3">
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" CenterX="60" CenterY="135"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Name="dao" Stretch="Fill" Source="/gesture;component/tool/刀.png" Visibility="Hidden" Margin="0,0,1820,400" Width="100" Height="800" Grid.ColumnSpan="3" />
+            <Image Name="_dabi" Stretch="Fill" Source="/gesture;component/images/大臂2.png" Visibility="Hidden" Margin="0,0,1880,1104" Width="40" Height="96" Grid.ColumnSpan="3" />
+            <Image Name="_xiaobi" Stretch="Fill" Source="/gesture;component/images/小臂2.png" Visibility="Hidden" Margin="0,0,1850,1080" Width="70" Height="120" Grid.ColumnSpan="3" />
+            <Image Name="_datui" Stretch="Fill" Source="/gesture;component/images/大腿2.png" Visibility="Hidden" Margin="0,0,1870,1080" Width="50" Height="120" Grid.ColumnSpan="3" />
+            <Image Name="_xiaotui" Stretch="Fill" Source="/gesture;component/images/小腿2.png" Visibility="Hidden" Margin="0,0,1880,1120" Width="40" Height="80" Grid.ColumnSpan="3" />
+            <Image Name="_dabi2" Stretch="Fill" Source="/gesture;component/images/大臂2.png" Visibility="Hidden" Margin="0,0,1880,1104" Width="40" Height="96" Grid.ColumnSpan="3" />
+            <Image Name="_xiaobi2" Stretch="Fill" Source="/gesture;component/images/小臂2.png" Visibility="Hidden" Margin="0,0,1850,1080" Width="70" Height="120" Grid.ColumnSpan="3" />
+            <Image Name="_datui2" Stretch="Fill" Source="/gesture;component/images/大腿2.png" Visibility="Hidden" Margin="0,0,1870,1080" Width="50" Height="120" Grid.ColumnSpan="3" />
+            <Image Name="_xiaotui2" Stretch="Fill" Source="/gesture;component/images/小腿2.png" Visibility="Hidden" Margin="0,0,1880,1120" Width="40" Height="80" Grid.ColumnSpan="3" />
+            <Image Name="_shangsheng" Stretch="Fill" Source="/gesture;component/images/上身2.png" Visibility="Hidden" Margin="0,0,1840,1065" Width="80" Height="135" Grid.ColumnSpan="3" />
+            <Image Name="_tou" Stretch="Fill" Source="/gesture;component/images/头2.png" Visibility="Hidden" Margin="0,0,1800,1065" Width="120" Height="135" Grid.ColumnSpan="3" />
+            <Image Name="_dao" Stretch="Fill" Source="/gesture;component/tool/刀.png" Visibility="Hidden" Margin="3,0,1913,400" Width="100" Height="800" Grid.ColumnSpan="3" />
+        </Grid>
+    </Viewbox>
+</Window>
